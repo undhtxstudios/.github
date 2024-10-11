@@ -1,10 +1,10 @@
 # 🎨 **Unorthodox Studios** 🎮
 
-Welcome to **Unorthodox Studios**, where we break away from the norm to explore unique approaches in computer graphics. From developing small-scale, experimental games to learning cutting-edge graphics technologies, we embrace creativity and innovation at every step.
+Welcome to **Unorthodox Studios**. Break away from the norm to explore unique approaches in computer graphics. From developing small-scale, experimental games to learning cutting-edge graphics technologies, we embrace creativity and innovation at every step.
 
 ## 🌀 **What We Do**
 
-At Unorthodox Studios, we are:
+Unorthodox Studios:
 
 - 🧩 Developing *unorthodox* games that challenge conventional graphics techniques.
 - ⚙️ Experimenting with various graphics engines and libraries.
